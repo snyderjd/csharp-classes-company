@@ -1,0 +1,11 @@
+/home/snyderjosephd/nss/workspace/csharp/exercises/classes/PracticeCompany/bin/Debug/netcoreapp3.0/PracticeCompany
+/home/snyderjosephd/nss/workspace/csharp/exercises/classes/PracticeCompany/bin/Debug/netcoreapp3.0/PracticeCompany.deps.json
+/home/snyderjosephd/nss/workspace/csharp/exercises/classes/PracticeCompany/bin/Debug/netcoreapp3.0/PracticeCompany.runtimeconfig.json
+/home/snyderjosephd/nss/workspace/csharp/exercises/classes/PracticeCompany/bin/Debug/netcoreapp3.0/PracticeCompany.runtimeconfig.dev.json
+/home/snyderjosephd/nss/workspace/csharp/exercises/classes/PracticeCompany/bin/Debug/netcoreapp3.0/PracticeCompany.dll
+/home/snyderjosephd/nss/workspace/csharp/exercises/classes/PracticeCompany/bin/Debug/netcoreapp3.0/PracticeCompany.pdb
+/home/snyderjosephd/nss/workspace/csharp/exercises/classes/PracticeCompany/obj/Debug/netcoreapp3.0/PracticeCompany.csprojAssemblyReference.cache
+/home/snyderjosephd/nss/workspace/csharp/exercises/classes/PracticeCompany/obj/Debug/netcoreapp3.0/PracticeCompany.AssemblyInfoInputs.cache
+/home/snyderjosephd/nss/workspace/csharp/exercises/classes/PracticeCompany/obj/Debug/netcoreapp3.0/PracticeCompany.AssemblyInfo.cs
+/home/snyderjosephd/nss/workspace/csharp/exercises/classes/PracticeCompany/obj/Debug/netcoreapp3.0/PracticeCompany.dll
+/home/snyderjosephd/nss/workspace/csharp/exercises/classes/PracticeCompany/obj/Debug/netcoreapp3.0/PracticeCompany.pdb
